@@ -1,0 +1,5 @@
+server:
+  note:
+    port: 9099
+storage:
+  note-storage-path: D:/java笔记/system-file
